@@ -1,3 +1,5 @@
+import com.student.Student;
+
 public class Main {
     public static void main(String[] args) {
         Student piero = new Student("Piero", "Casadei", 21);
