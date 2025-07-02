@@ -1,3 +1,5 @@
+package com.student;
+
 public class Student {
     public String firstName;
     public String secondName;
